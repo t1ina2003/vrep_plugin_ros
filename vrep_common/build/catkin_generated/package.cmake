@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "vrep_common")
+set(vrep_common_MAINTAINER "Marc <marc@coppeliarobotics.com>")
+set(vrep_common_DEPRECATED "")
+set(vrep_common_VERSION "3.1.2")
+set(vrep_common_BUILD_DEPENDS "roscpp" "std_msgs" "sensor_msgs")
+set(vrep_common_RUN_DEPENDS "roscpp")
+set(vrep_common_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: vrep_common
+Description: Description of vrep_common
+Version: 3.1.2
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: 

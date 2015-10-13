@@ -1,0 +1,8 @@
+prefix=/home/iris/folder/vrep_common/build/devel
+
+Name: vrep_common
+Description: Description of vrep_common
+Version: 3.1.2
+Cflags: -I/home/iris/folder/vrep_common/build/devel/include
+Libs: -L/home/iris/folder/vrep_common/build/devel/lib 
+Requires: 

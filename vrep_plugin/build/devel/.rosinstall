@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/iris/folder/vrep_plugin/build/devel/setup.sh

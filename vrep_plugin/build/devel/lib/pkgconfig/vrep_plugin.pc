@@ -1,0 +1,8 @@
+prefix=/home/iris/folder/vrep_plugin/build/devel
+
+Name: vrep_plugin
+Description: Description of vrep_plugin
+Version: 3.1.2
+Cflags: 
+Libs: -L/home/iris/folder/vrep_plugin/build/devel/lib 
+Requires: roscpp rosconsole std_msgs sensor_msgs cv_bridge image_transport tf brics_actuator roslib roscpp rosconsole std_msgs sensor_msgs image_transport tf roslib
