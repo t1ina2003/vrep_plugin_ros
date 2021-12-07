@@ -4,7 +4,8 @@ vrep_plugin_ros
 
 *2015-10-15 upload a tutorial video https://youtu.be/3Ml0N8-iCwU
 
-vrep ros plugin for ROS jade, V-REP download from http://www.coppeliarobotics.com, ROS from http://www.ros.org/
+vrep ros plugin for ROS jade, V-REP download from http://www.coppeliarobotics.com   
+ROS from http://www.ros.org/
 
 This project using V-REP 3.2.0 tested working fine with vrep_ros_bridge at https://github.com/lagadic/vrep_ros_bridge
 and ROS jade.
