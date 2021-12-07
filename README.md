@@ -16,7 +16,7 @@ an error show up:
 >The plugin probably couldn't load dependency libraries. 
 >Try 'ldd pluginName.so' for more infos, or simply rebuild the plugin.
 
-so i wrote a right way to build these file and a bash file for saving time. please feel free to use it.
+so i found a way to build these file and a bash file for saving time. please feel free to use it.
 
 ##Correct procedure
 
