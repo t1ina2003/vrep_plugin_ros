@@ -18,7 +18,7 @@ an error show up:
 
 so i found a way to build these file and a bash file for saving time. please feel free to use it.
 
-##Correct procedure
+## Correct procedure
 
 #### 1. go to the vrep_common folder
 #### 2. in package.xml, comment this line
